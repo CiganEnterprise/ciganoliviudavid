@@ -82,7 +82,7 @@ the system works here is the documentation: https://github.com/CiganEnterprise/C
 Products management and Projects management represents where is the business working
 in the moment you request a project. You can see how many projects or products
 does the business have as active working, planned or finished. In this way you as
-client can see how does the business go and your changes to get accepted for future
+client can see how does the business go and your chances to get accepted for future
 projects. 
 
 ## Frontend
