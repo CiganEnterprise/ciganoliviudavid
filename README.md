@@ -55,7 +55,7 @@ It can also be a plugin to any system but it requires interoperability.
 There is a version of this CRM which is not a plugin, is an independent app.
 Here is the full documentation of how this webapp works: https://github.com/CiganEnterprise/CustomerRelationshipManagement
 
-On short about the CRM:
+In short about the CRM:
  
 ##### CLIENTSMANAGEMENT
 
