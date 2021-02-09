@@ -95,3 +95,8 @@ I've used vanilla javascript combined with jquery for functionalities like scrol
 scroll top, hamburger menu and a digit incrementer.
 
 ![Website main page responsive](ciganoliviudavid_documentation/picture_9.png)
+
+## Technologies
+
+The technologies I used for this project are HTML5, CSS3, Bootstrap, FontAwesome,
+JavaScript, Jquery, Python Django, SQL Based Database.
