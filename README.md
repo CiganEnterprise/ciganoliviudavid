@@ -110,3 +110,21 @@ just simple queries in the page. ( This kind of system is implemented in cigan_e
 * Same thing with the projects who are used as reference in the webapp. All of them should be put in 
 a database where there should be only queries in the main page. ( Again, this kind of system is
 implemented in cigan_enterprize -> ...)
+
+## Requirements
+
+* You should have python3 and django version (3.0.8) installed.
+
+## Setup
+
+* Download this repo
+* After downloading this repo you have to get a SECRET_KEY from here -> https://djecrety.ir/ and paste
+it in the settings.py file from PersonalWebApp folder. (ciganoliviudavid/PersonalWebApp/settings.py)
+ 
+![Website main page responsive](ciganoliviudavid_documentation/picture_12.png)
+
+* Open cmd or terminal in ciganoliviudavid folder and type 
+```
+    python3 manage.py runserver
+```
+* Enjoy
