@@ -94,7 +94,7 @@ or font awesome.
 I've used vanilla javascript combined with jquery for functionalities like scroll down, 
 scroll top, hamburger menu and a digit incrementer.
 
-![Website main page responsive](ciganoliviudavid_documentation/picture_9.png) ![Website main page responsive](ciganoliviudavid_documentation/picture_10.png)
+![Website main page responsive](ciganoliviudavid_documentation/picture_11.png) ![Website main page responsive](ciganoliviudavid_documentation/picture_10.png)
 
 ## Technologies
 
