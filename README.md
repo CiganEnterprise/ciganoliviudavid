@@ -125,6 +125,24 @@ it in the settings.py file from PersonalWebApp folder. (ciganoliviudavid/Persona
 
 * Open cmd or terminal in ciganoliviudavid folder and type 
 ```
+    python3 manage.py makemigrations
+```
+
+then 
+
+```
+    python3 manage.py migrate
+```
+
+after that create an admin
+
+```
+    python3 manage.py createsuperuser
+```
+
+run the app
+
+```
     python3 manage.py runserver
 ```
 * Enjoy
