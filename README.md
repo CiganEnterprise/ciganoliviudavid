@@ -94,9 +94,19 @@ or font awesome.
 I've used vanilla javascript combined with jquery for functionalities like scroll down, 
 scroll top, hamburger menu and a digit incrementer.
 
-![Website main page responsive](ciganoliviudavid_documentation/picture_9.png)
+![Website main page responsive](ciganoliviudavid_documentation/picture_9.png) ![Website main page responsive](ciganoliviudavid_documentation/picture_10.png)
 
 ## Technologies
 
 The technologies I've used for this project are HTML5, CSS3, Bootstrap, FontAwesome,
 JavaScript, Jquery, Python Django, SQL Based Database.
+
+## Future Development
+
+A list with possible and super helpful updates that the system may need:
+* The books section should all be automated, all the books put in a database. From there we talk about
+just simple queries in the page. ( This kind of system is implemented in cigan_enterprize -> ... )
+
+* Same thing with the projects who are used as reference in the webapp. All of them should be put in 
+a database where there should be only queries in the main page. ( Again, this kind of system is
+implemented in cigan_enterprize -> ...)
