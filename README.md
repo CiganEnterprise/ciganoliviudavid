@@ -98,8 +98,8 @@ scroll top, hamburger menu and a digit incrementer.
 
 ## Technologies
 
-The technologies I've used for this project are HTML5, CSS3, Bootstrap, FontAwesome,
-JavaScript, Jquery, Python Django, SQL Based Database.
+The technologies I've used for this project are HTML5, CSS3, Bootstrap,
+JavaScript, Jquery, Python Django, SQL Based Database (sqlite3).
 
 ## Future Development
 
